@@ -1,1 +1,60 @@
+	body { 
+    background: #565656; 
+    margin-right: 6cm;
+    margin-left: 6cm;
+    color: #ffffff;
+    font-family: "Roboto", Roboto, sans-serif;
+}
+	footer {
+	color: #ffffff;
+	opacity: 0.5;
+    filter: Alpha(opacity=50); /* IE8 and earlier */
+    font-weight: lighter;
 
+}	
+    a {
+    color: #1CBFA4;	
+    font-weight: bolder;
+    }
+
+    h1 {
+    font-size: 500%;
+    letter-spacing: 10px;
+    text-shadow: 4px 4px #1CBFA4;
+    font-weight: bold;
+    border: none;
+    padding: 100px;
+    background: url("http://orig04.deviantart.net/ac16/f/2017/169/4/0/402afb0262d78c59f8296f92eab272d1-dbd7fto.jpg");
+    background-repeat: no-repeat;
+    margin-bottom: 10px
+}
+    h2 {
+    font-size: 200%;
+    font-weight: bolder;
+    }
+
+    h3 {
+    font-size: 150%; 
+    font-weight: bolder;  	
+    }
+
+    h4 {
+    font-size: 120%; 
+    font-weight: bolder;
+    color: #1CBFA4;	  	
+    }
+
+    p {
+    font-size: 90%;
+    }
+
+     ul {
+    font-size: 90%;
+    font-weight: lighter;
+    }
+
+     ol {
+    font-size: 120;
+    font-weight: bolder;
+    color: #1CBFA4;    
+    }
