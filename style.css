@@ -1,7 +1,7 @@
-	body { 
+    body { 
     background: #565656; 
-    margin-right: 6cm;
-    margin-left: 6cm;
+    margin-right: auto;
+    margin-left: auto;
     color: #ffffff;
     font-family: "Roboto", Roboto, sans-serif;
 }
